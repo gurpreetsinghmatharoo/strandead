@@ -1,0 +1,2 @@
+/// @description 
+hurtTimer = 0;
